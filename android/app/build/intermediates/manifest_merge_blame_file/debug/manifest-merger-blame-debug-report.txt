@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.gerg"
+3    package="com.totim"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -9,11 +9,11 @@
 9        android:targetSdkVersion="29" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Users/vijaykahar/Desktop/Gerg/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/vijaykahar/Desktop/Gerg/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 13-->[com.facebook.flipper:flipper:0.37.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/3b3738ce6897d8032f737a240f7f3ea8/jetified-flipper-0.37.0/AndroidManifest.xml:16:5-76
 13-->[com.facebook.flipper:flipper:0.37.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/3b3738ce6897d8032f737a240f7f3ea8/jetified-flipper-0.37.0/AndroidManifest.xml:16:22-73
@@ -33,25 +33,25 @@
 18-->[notifee_core_release.aar] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/f0e67829f4802b94edc994120eb2aa75/jetified-notifee_core_release/AndroidManifest.xml:16:5-77
 18-->[notifee_core_release.aar] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/f0e67829f4802b94edc994120eb2aa75/jetified-notifee_core_release/AndroidManifest.xml:16:22-74
 19    <uses-permission android:name="android.permission.CAMERA" />
-19-->[:react-native-camera] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
-19-->[:react-native-camera] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:22-62
+19-->[:react-native-camera] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+19-->[:react-native-camera] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:22-62
 20
 21    <uses-feature
-21-->[:react-native-camera] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+21-->[:react-native-camera] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
 22        android:name="android.hardware.camera"
-22-->[:react-native-camera] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+22-->[:react-native-camera] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
 23        android:required="false" />
-23-->[:react-native-camera] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+23-->[:react-native-camera] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
 24    <uses-feature
-24-->[:react-native-camera] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+24-->[:react-native-camera] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
 25        android:name="android.hardware.camera.autofocus"
-25-->[:react-native-camera] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+25-->[:react-native-camera] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
 26        android:required="false" />
-26-->[:react-native-camera] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+26-->[:react-native-camera] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
 27
 28    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-28-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
-28-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+28-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+28-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
 29    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 29-->[com.google.firebase:firebase-iid:20.3.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/b10e1eefea30b60e1e8b850b1bea7226/jetified-firebase-iid-20.3.0/AndroidManifest.xml:26:5-82
 29-->[com.google.firebase:firebase-iid:20.3.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/b10e1eefea30b60e1e8b850b1bea7226/jetified-firebase-iid-20.3.0/AndroidManifest.xml:26:22-79
@@ -60,62 +60,62 @@
 30-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/beccec219162dfe0f176a60b692abffc/jetified-play-services-measurement-17.6.0/AndroidManifest.xml:26:22-107
 31
 32    <application
-32-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:6:5-25:19
+32-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:6:5-25:19
 33        android:name="com.totim.MainApplication"
-33-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:7:7-38
+33-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:7:7-38
 34        android:allowBackup="false"
-34-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:11:7-34
+34-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:11:7-34
 35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 35-->[androidx.core:core:1.2.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/c49fec7d8f0c6cc94dece392a76ef41b/core-1.2.0/AndroidManifest.xml:24:18-86
 36        android:debuggable="true"
 37        android:icon="@mipmap/ic_launcher"
-37-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:9:7-41
+37-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:9:7-41
 38        android:label="@string/app_name"
-38-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:8:7-39
+38-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:8:7-39
 39        android:roundIcon="@mipmap/ic_launcher_round"
-39-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:10:7-52
+39-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:10:7-52
 40        android:testOnly="true"
 41        android:theme="@style/AppTheme"
-41-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:12:7-38
+41-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:12:7-38
 42        android:usesCleartextTraffic="true" >
-42-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/debug/AndroidManifest.xml:7:18-53
+42-->/Users/vijaykahar/Desktop/Gerg/android/app/src/debug/AndroidManifest.xml:7:18-53
 43        <activity
-43-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:13:7-23:18
+43-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:13:7-23:18
 44            android:name="com.totim.MainActivity"
-44-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:14:9-37
+44-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:14:9-37
 45            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-45-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:16:9-86
+45-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:16:9-86
 46            android:label="@string/app_name"
-46-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:15:9-41
+46-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:15:9-41
 47            android:launchMode="singleTask"
-47-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:17:9-40
+47-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:17:9-40
 48            android:windowSoftInputMode="adjustResize" >
-48-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:18:9-51
+48-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:18:9-51
 49            <intent-filter>
-49-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:19:9-22:25
+49-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:19:9-22:25
 50                <action android:name="android.intent.action.MAIN" />
-50-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:20:13-65
-50-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:20:21-62
+50-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:20:13-65
+50-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:20:21-62
 51
 52                <category android:name="android.intent.category.LAUNCHER" />
-52-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:21:13-73
-52-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:21:23-70
+52-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:21:13-73
+52-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:21:23-70
 53            </intent-filter>
 54        </activity>
 55        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-55-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:24:7-84
-55-->/Users/vijaykahar/Desktop/totim-rn/android/app/src/main/AndroidManifest.xml:24:17-81
+55-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:24:7-84
+55-->/Users/vijaykahar/Desktop/Gerg/android/app/src/main/AndroidManifest.xml:24:17-81
 56
 57        <provider
-57-->[:notifee_react-native] /Users/vijaykahar/Desktop/totim-rn/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:40
+57-->[:notifee_react-native] /Users/vijaykahar/Desktop/Gerg/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:40
 58            android:name="io.invertase.notifee.NotifeeInitProvider"
-58-->[:notifee_react-native] /Users/vijaykahar/Desktop/totim-rn/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-68
-59            android:authorities="com.gerg.notifee-init-provider"
-59-->[:notifee_react-native] /Users/vijaykahar/Desktop/totim-rn/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-73
+58-->[:notifee_react-native] /Users/vijaykahar/Desktop/Gerg/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-68
+59            android:authorities="com.totim.notifee-init-provider"
+59-->[:notifee_react-native] /Users/vijaykahar/Desktop/Gerg/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-73
 60            android:exported="false"
-60-->[:notifee_react-native] /Users/vijaykahar/Desktop/totim-rn/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+60-->[:notifee_react-native] /Users/vijaykahar/Desktop/Gerg/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
 61            android:initOrder="-100" /> <!-- Receiver Service -->
-61-->[:notifee_react-native] /Users/vijaykahar/Desktop/totim-rn/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+61-->[:notifee_react-native] /Users/vijaykahar/Desktop/Gerg/node_modules/@notifee/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
 62        <service
 62-->[notifee_core_release.aar] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/f0e67829f4802b94edc994120eb2aa75/jetified-notifee_core_release/AndroidManifest.xml:21:9-23:40
 63            android:name="app.notifee.core.ReceiverService"
@@ -149,86 +149,86 @@
 76        </receiver>
 77
 78        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
-78-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-111
-78-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-108
+78-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-111
+78-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-108
 79        <service
-79-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-23:19
+79-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-23:19
 80            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
-80-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-95
+80-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-95
 81            android:exported="false" >
-81-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
+81-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
 82            <intent-filter>
-82-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+82-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
 83                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-83-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
-83-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+83-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+83-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
 84            </intent-filter>
 85        </service>
 86
 87        <receiver
-87-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-32:20
+87-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-32:20
 88            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
-88-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-96
+88-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-96
 89            android:exported="true"
-89-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-36
+89-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-36
 90            android:permission="com.google.android.c2dm.permission.SEND" >
-90-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-73
+90-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-73
 91            <intent-filter>
-91-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+91-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
 92                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-92-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
-92-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+92-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+92-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
 93            </intent-filter>
 94        </receiver>
 95
 96        <meta-data
-96-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
+96-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
 97            android:name="firebase_messaging_auto_init_enabled"
-97-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
+97-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
 98            android:value="true" />
-98-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
+98-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
 99        <meta-data
-99-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
+99-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
 100            android:name="com.google.firebase.messaging.default_notification_channel_id"
-100-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
+100-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
 101            android:value="" />
-101-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
+101-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
 102        <meta-data
-102-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-42:47
+102-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-42:47
 103            android:name="com.google.firebase.messaging.default_notification_color"
-103-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-84
+103-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-84
 104            android:resource="@color/white" />
-104-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-44
+104-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-44
 105
 106        <activity android:name="com.masteratul.exceptionhandler.DefaultErrorScreen" >
-106-->[:react-native-exception-handler] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-13:20
-106-->[:react-native-exception-handler] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-84
+106-->[:react-native-exception-handler] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-13:20
+106-->[:react-native-exception-handler] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-84
 107        </activity>
 108
 109        <provider
-109-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+109-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
 110            android:name="androidx.core.content.FileProvider"
-110-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
-111            android:authorities="com.gerg.provider"
-111-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+110-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+111            android:authorities="com.totim.provider"
+111-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
 112            android:exported="false"
-112-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+112-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
 113            android:grantUriPermissions="true" >
-113-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+113-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
 114            <meta-data
-114-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+114-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
 115                android:name="android.support.FILE_PROVIDER_PATHS"
-115-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+115-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
 116                android:resource="@xml/provider_paths" />
-116-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+116-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
 117        </provider>
 118
 119        <activity
-119-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+119-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
 120            android:name="com.yalantis.ucrop.UCropActivity"
-120-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+120-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
 121            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-121-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/totim-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+121-->[:react-native-image-crop-picker] /Users/vijaykahar/Desktop/Gerg/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
 122        <!--
 123             FirebaseMessagingService performs security checks at runtime,
 124             but set to not exported to explicitly avoid allowing another app to call it.
@@ -242,10 +242,10 @@
 129            android:exported="false" >
 129-->[com.google.firebase:firebase-messaging:20.3.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/55e2dac042bb4d222c5b27b0c9184756/jetified-firebase-messaging-20.3.0/AndroidManifest.xml:31:13-37
 130            <intent-filter android:priority="-500" >
-130-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+130-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
 131                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-131-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
-131-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+131-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+131-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
 132            </intent-filter>
 133        </service>
 134        <service
@@ -351,10 +351,10 @@
 189            android:permission="com.google.android.c2dm.permission.SEND" >
 189-->[com.google.firebase:firebase-iid:20.3.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/b10e1eefea30b60e1e8b850b1bea7226/jetified-firebase-iid-20.3.0/AndroidManifest.xml:40:13-73
 190            <intent-filter>
-190-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+190-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
 191                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-191-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
-191-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/totim-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+191-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+191-->[:react-native-firebase_messaging] /Users/vijaykahar/Desktop/Gerg/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
 192            </intent-filter>
 193        </receiver>
 194
@@ -371,7 +371,7 @@
 200-->[com.google.firebase:firebase-common:19.3.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/0aaed973d913b52fead8338f9769152f/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
 201            android:name="com.google.firebase.provider.FirebaseInitProvider"
 201-->[com.google.firebase:firebase-common:19.3.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/0aaed973d913b52fead8338f9769152f/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
-202            android:authorities="com.gerg.firebaseinitprovider"
+202            android:authorities="com.totim.firebaseinitprovider"
 202-->[com.google.firebase:firebase-common:19.3.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/0aaed973d913b52fead8338f9769152f/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
 203            android:exported="false"
 203-->[com.google.firebase:firebase-common:19.3.0] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/0aaed973d913b52fead8338f9769152f/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
@@ -418,7 +418,7 @@
 226-->[androidx.work:work-runtime:2.3.4] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/d6a2036c66bac8de1cbe4a76d4f5955f/work-runtime-2.3.4/AndroidManifest.xml:31:9-37:35
 227            android:name="androidx.work.impl.WorkManagerInitializer"
 227-->[androidx.work:work-runtime:2.3.4] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/d6a2036c66bac8de1cbe4a76d4f5955f/work-runtime-2.3.4/AndroidManifest.xml:32:13-69
-228            android:authorities="com.gerg.workmanager-init"
+228            android:authorities="com.totim.workmanager-init"
 228-->[androidx.work:work-runtime:2.3.4] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/d6a2036c66bac8de1cbe4a76d4f5955f/work-runtime-2.3.4/AndroidManifest.xml:33:13-68
 229            android:directBootAware="false"
 229-->[androidx.work:work-runtime:2.3.4] /Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/d6a2036c66bac8de1cbe4a76d4f5955f/work-runtime-2.3.4/AndroidManifest.xml:34:13-44

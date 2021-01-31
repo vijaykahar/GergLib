@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vijaykahar/Desktop/totim-rn/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "/Users/vijaykahar/Desktop/Gerg/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "/Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/33771f215d2da4e5b20ae1d0bca1db30/appcompat-1.1.0/res/values-en-rXC/values-en-rXC.xml",

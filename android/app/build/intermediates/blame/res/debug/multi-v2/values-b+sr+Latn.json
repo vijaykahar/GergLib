@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vijaykahar/Desktop/totim-rn/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/Users/vijaykahar/Desktop/Gerg/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/6e10d5b4d2e82898c76f0161e2a2c85f/jetified-play-services-base-17.1.0/res/values-b+sr+Latn/values.xml",

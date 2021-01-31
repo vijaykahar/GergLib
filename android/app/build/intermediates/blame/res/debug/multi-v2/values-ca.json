@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vijaykahar/Desktop/totim-rn/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+            "outputFile": "/Users/vijaykahar/Desktop/Gerg/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "/Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/c49fec7d8f0c6cc94dece392a76ef41b/core-1.2.0/res/values-ca/values-ca.xml",

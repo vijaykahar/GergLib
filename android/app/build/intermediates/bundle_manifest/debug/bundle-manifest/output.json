@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.gerg",
+  "applicationId": "com.totim",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -19,7 +19,7 @@
       },
       "path": "AndroidManifest.xml",
       "properties": {
-        "packageId": "com.gerg",
+        "packageId": "com.totim",
         "split": "",
         "minSdkVersion": "16"
       }

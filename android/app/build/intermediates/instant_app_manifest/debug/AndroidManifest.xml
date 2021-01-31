@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.gerg"
+    package="com.totim"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -57,7 +57,7 @@
 
         <provider
             android:name="io.invertase.notifee.NotifeeInitProvider"
-            android:authorities="com.gerg.notifee-init-provider"
+            android:authorities="com.totim.notifee-init-provider"
             android:exported="false"
             android:initOrder="-100" /> <!-- Receiver Service -->
         <service
@@ -109,7 +109,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.gerg.provider"
+            android:authorities="com.totim.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -200,7 +200,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.gerg.firebaseinitprovider"
+            android:authorities="com.totim.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -226,7 +226,7 @@
 
         <provider
             android:name="androidx.work.impl.WorkManagerInitializer"
-            android:authorities="com.gerg.workmanager-init"
+            android:authorities="com.totim.workmanager-init"
             android:directBootAware="false"
             android:exported="false"
             android:multiprocess="true" />

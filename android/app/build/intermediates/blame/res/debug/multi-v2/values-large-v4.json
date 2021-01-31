@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vijaykahar/Desktop/totim-rn/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "/Users/vijaykahar/Desktop/Gerg/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
                     "source": "/Users/vijaykahar/.gradle/caches/transforms-2/files-2.1/1e54c27dd2c667bfbfb736f897119047/material-1.1.0/res/values-large-v4/values-large-v4.xml",

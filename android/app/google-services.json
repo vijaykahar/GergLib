@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:746555165771:android:9ea1f23da17bb9da0ed1ce",
+        "mobilesdk_app_id": "1:746555165771:android:c8344afd0ec2aad90ed1ce",
         "android_client_info": {
-          "package_name": "com.gerg"
+          "package_name": "com.totim"
         }
       },
       "oauth_client": [
