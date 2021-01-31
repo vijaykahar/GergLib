@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "746555165771",
+    "project_id": "garglib",
+    "storage_bucket": "garglib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746555165771:android:9ea1f23da17bb9da0ed1ce",
+        "android_client_info": {
+          "package_name": "com.gerg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746555165771-afc9073k5ak01geummbg7oujkgqqcmn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOLaYz3EIysY6Bco0dFRIPBKscgA42wOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746555165771-afc9073k5ak01geummbg7oujkgqqcmn5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746555165771-e6gfrbrjdiojvapktdvu6dnmn5qsgptq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.garg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "title": "App Notifications",
+        "screenName": "",
+        "isRedirect": false
+    },
+    {
+        "title": "My Profile",
+        "screenName": "OtherProfile",
+        "isRedirect": true
+    },
+    {
+        "title": "Change Password",
+        "screenName": "ChangePassword",
+        "isRedirect": true
+    },
+    {
+        "title": "Report an issue",
+        "screenName": "",
+        "isRedirect": false
+    },
+    {
+        "title": "Terms of Use",
+        "screenName": "",
+        "isRedirect": false
+    },
+    {
+        "title": "Privacy Policy",
+        "screenName": "",
+        "isRedirect": false
+    },
+    {
+        "title": "Delete account?",
+        "screenName": "",
+        "isRedirect": false
+    },
+    // {
+    //     "title": "Info Mode",
+    //     "screenName": "InfoMode",
+    //     "isRedirect": true
+    // },
+    // {
+    //     "title": "Draft Video",
+    //     "screenName": "DraftVideo",
+    //     "isRedirect": true
+    // },
+    // {
+    //     "title": "Video Record",
+    //     "screenName": "VideoRecord",
+    //     "isRedirect": true
+    // },
+]

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01d156bf-55bf-4767-88f5-250275ea27aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/GoogleService-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/GoogleService-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/totim.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/totim.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/totim/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/totim/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/auth.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/request.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/Button/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/Header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/redux/actions/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/redux/actions/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/AddCoHost/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/AddCoHost/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/ChangePassword/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/ChangePassword/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/ChannelInfoCoHost/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/ChannelInfoCoHost/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/ChannelInfoCoHost/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/ChannelInfoMainHost/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/ChannelInfoMainHost/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/ChannelInfoMainHost/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/DraftVideo/bottomView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/DraftVideo/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/DraftVideo/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/DraftVideo/style.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/FirstTimeHost/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/FirstTimeHost/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/GroupInfoHost/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/GroupInfoHost/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/GroupInfoHost/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/GroupInfoPublic/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/GroupInfoPublic/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/GroupInfoPublic/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/InfoMode/SuccessMark.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/InfoMode/bottomView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/InfoMode/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/InfoMode/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/InfoMode/style.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/InviteUser/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/InviteUser/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/MyProfile/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/MyProfile/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/OtherProfile/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/OtherProfile/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/Settings/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/Settings/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/Settings/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/VideoRecord/DraftVideos.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/VideoRecord/Publish.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/VideoRecord/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/VideoRecord/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/app/VideoRecord/style.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/ForgotPassword/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/ForgotPassword/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/Registration/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/Registration/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/Signup/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/Signup/styles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/login/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/auth/login/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/login/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/auth/login/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="fee6a8ad" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nqW5UekMy1oAvcs9J1TP8PSJhO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01d156bf-55bf-4767-88f5-250275ea27aa" name="Default Changelist" comment="" />
+      <created>1612117918721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612117918721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1612119666698">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="369" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1612119666698" />
+  </component>
+</project>

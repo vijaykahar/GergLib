@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="totim/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1847861418/notifee_react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/1847861418/notifee_react-native.iml" group="totim/notifee_react-native" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1991655757/react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-1991655757/react-native-camera.iml" group="totim/react-native-camera" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-415395073/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-415395073/react-native-community_masked-view.iml" group="totim/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-596161218/react-native-exception-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-596161218/react-native-exception-handler.iml" group="totim/react-native-exception-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-539666533/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-539666533/react-native-firebase_app.iml" group="totim/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/768820734/react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/768820734/react-native-firebase_messaging.iml" group="totim/react-native-firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1124334920/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1124334920/react-native-gesture-handler.iml" group="totim/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-533674645/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-533674645/react-native-image-crop-picker.iml" group="totim/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1043347356/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1043347356/react-native-reanimated.iml" group="totim/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1797698271/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1797698271/react-native-safe-area-context.iml" group="totim/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-86281607/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-86281607/react-native-screens.iml" group="totim/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/495059437/react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/495059437/react-native-video.iml" group="totim/react-native-video" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/totim.iml" filepath="$PROJECT_DIR$/.idea/modules/totim.iml" group="totim" />
+    </modules>
+  </component>
+</project>
