@@ -1,10 +1,17 @@
+import { utils } from '@react-native-firebase/app';
 import { StyleSheet, Dimensions } from 'react-native';
 import { colors } from 'src/constants/colors'
+import * as util from 'src/constants/utils'
 
-const SCREEN_WIDTH = Dimensions.get('screen').width
 const styles = StyleSheet.create({
-    container: {marginTop:20,justifyContent: 'center',paddingLeft:16, flexDirection: "column", marginHorizontal: 15, height: 55, alignItems: "flex-start", borderColor: colors.LightGrayLine,flex:1,borderWidth: 1,
-    borderRadius:8},
+    container: {
+        height: 50,
+        width: "90%",
+        marginTop: util.scalerHeight(15),
+        borderBottomWidth: 1,
+        borderBottomColor: "gray",
+        justifyContent: "flex-end"
+    },
     textfield: {
         fontFamily: 'Arial',
         fontSize: 12,
@@ -12,16 +19,16 @@ const styles = StyleSheet.create({
         height: 50,
     },
     placeholder: {
-        color:colors.Gray,
+        color: colors.Gray,
         textAlign: "left",
         paddingHorizontal: 0,
         fontSize: 11
     },
     valueStyle: {
-        marginTop:2,
+        marginTop: 2,
         fontSize: 15,
-        width:'100%',
-        color:colors.textcolorblack,
+        width: '100%',
+        color: colors.textcolorblack,
     },
     editContainer: {
         height: 35,

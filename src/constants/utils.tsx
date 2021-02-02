@@ -1,6 +1,8 @@
-import { Linking } from 'react-native';
+import { Linking, Dimensions } from 'react-native';
 import { IS_IPHONE } from 'src/constants/constant';
 
+let screenwidth = Dimensions.get('screen').width
+let screenheight = Dimensions.get('screen').height
 export const openSpotifyApp = () => {
     const url = `spotify://app`;
     let storeURL = ''
@@ -34,4 +36,14 @@ export const openSpotifyApp = () => {
             }
         });
     }
+}
+
+export const scalerWidth = (value: number) => {
+    let returnValue = 100 * value / screenwidth
+    return returnValue
+}
+
+export const scalerHeight = (value: number) => {
+    let returnValue = 100 * value / screenheight
+    return returnValue
 }
